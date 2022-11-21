@@ -27,38 +27,44 @@ $(document).ready(function() {
       tag: 'Home Automation System.',
       detail:
         'To turn on/off multiple LEDs and as well as changing the intensity of the LED.',
-      link: 'http://www.roambi.com'
+      link: ''
     },
     walker: {
       title: 'Tip Calculator',
       tag: 'Tip Calculator Application.',
       detail:
-        'Calculating the tip based on the Service provided.'
+        'Calculating the tip based on the Service provided.',
+        link:'https://github.com/pratippatel/Tip-Calculator'
     },
     powur: {
       title: 'Powur.com',
       tag: 'CONSUMER POWERED MARKETING.',
       detail:
         'Powur is a marketing platform for lead generation, recruitment, and team building. Built with Ruby on Rails and Angular-UI. Makes use of Angular-material for front-end visuals. Features complex user tree heiarchy and commission system.',
-      link: 'http://www.powur.com/with/42'
+      link: ''
     },
     mystand: {
       title: 'The Furniture Store',
       tag: 'Ecommerce Furniture Application.',
       detail:
-        'A shopping cart that can be used on online shops and E-Commerce sites with Vanilla JS, HTML, and CSS. Implemented features such as Add to Cart, Dynamic Product Filter, Individual Item Description.'
+        'A shopping cart that can be used on online shops and E-Commerce sites with Vanilla JS, HTML, and CSS. Implemented features such as Add to Cart, Dynamic Product Filter, Individual Item Description.',
+        link:'https://github.com/pratippatel/Shopping-Cart'
     },
+    
     never: {
-      title: 'NeverSurrender',
-      tag: 'ALS AWARENESS.',
+      title: 'Vacation Rental By Owner Prototype',
+      tag: 'Rental Application.',
       detail:
-        'NeverSurrender is a platform for the new ALS foundation mobile app in hopes to raise awareness and research funding to fight ALS. Pure JavaScript marketing site to promote the new ALS NeverSurrender app.'
+        'Built a marketplace that lets the host rent out properties so that guests can search for lodging options using filters based on NodeJs with ExpressJs, NoSQL database, and React Redux framework hosted on AWS Cloud.',
+        link:'https://github.com/pratippatel/VRBO-Vacation-Rental-by-Owner-Prototype'
     },
+    
     themall: {
-      title: 'The Mall',
-      tag: 'PEER GUIDED SHOPPING.',
+      title: 'The Treasure Hunter',
+      tag: 'The Treasure Hunter.',
       detail:
-        'The Mall is a place to follow the latest fashion purchases of your friends and favorite celebrities. Built with Node.js and Handlebars. Features the ability to import thousands of top brands products into one shopping site.'
+        'Modeled character controller movements and interactions (collecting gems and firing bullets) in a single-level 2D platformer game.',
+        link:'https://github.com/pratippatel/TresureProject'
     }
   };
 
